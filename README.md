@@ -1,7 +1,14 @@
 # password-generator
 
 # Description
-Password generater made with JavaScript which generates a password using lowercase characters, uppercase characters, numeric and special characters. The length of the password is determined by a user, but the length can't be shorter than 8 characters and longer than 128 elements.
+A password generator made with JavaScript which generates a password using:
+<ul>
+  <li>lowercase characters</li>
+  <li>uppercase characters</li>
+  <li>numeric characters</li> 
+  <li>special characters</li>
+  <br>
+The length of the password is determined by a user, but the length can't be shorter than <strong>8 characters</strong> and longer than <strong>128 characters</strong>.
 
 ## Credit
 The starter code belongs to UT coding bootcamp. Parts of the code are made with the help of a tutor - Tucker Barrett.
